@@ -1,0 +1,15 @@
+# Virtual environments
+cst205env/
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Secrets and local settings
+.env
+.env.*
+instance/
+secrets.*
